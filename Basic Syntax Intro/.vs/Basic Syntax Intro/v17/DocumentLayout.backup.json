@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE396474-187B-424B-B927-D86944D77AA1}|P13\\P13.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE396474-187B-424B-B927-D86944D77AA1}|P13\\P13.csproj|solutionrelative:p13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B3516-AF56-4D33-A6BF-B7A86DCEA1A5}|P11\\P11.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B3516-AF56-4D33-A6BF-B7A86DCEA1A5}|P11\\P11.csproj|solutionrelative:p11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B4EF6C-5FD6-4B01-B0E8-8C22EDEF01B7}|P12\\P12.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B4EF6C-5FD6-4B01-B0E8-8C22EDEF01B7}|P12\\P12.csproj|solutionrelative:p12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E1352F-8259-4DB8-9A74-F6C2F85810B9}|P10\\P10.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E1352F-8259-4DB8-9A74-F6C2F85810B9}|P10\\P10.csproj|solutionrelative:p10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C3494C-CD30-443E-8A03-00551867927C}|P09\\P09.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C3494C-CD30-443E-8A03-00551867927C}|P09\\P09.csproj|solutionrelative:p09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E0539-DDFB-43D4-9442-EC0C26871E1B}|P08\\P08.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E0539-DDFB-43D4-9442-EC0C26871E1B}|P08\\P08.csproj|solutionrelative:p08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAEDDA9-B343-4517-B2B0-1C68F6E34955}|P07\\P07.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAEDDA9-B343-4517-B2B0-1C68F6E34955}|P07\\P07.csproj|solutionrelative:p07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139FAD51-37B7-46A4-A8DF-1308DF74DDD5}|P06\\P06.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139FAD51-37B7-46A4-A8DF-1308DF74DDD5}|P06\\P06.csproj|solutionrelative:p06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B8245A-F8BA-4F06-907A-28E272BE0698}|P05\\P05.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B8245A-F8BA-4F06-907A-28E272BE0698}|P05\\P05.csproj|solutionrelative:p05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA01062-DAFE-4A29-8E2D-87A0D49C88BF}|P04\\P04.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA01062-DAFE-4A29-8E2D-87A0D49C88BF}|P04\\P04.csproj|solutionrelative:p04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F839CF-B0A8-4A0D-8AF5-686AEB227003}|P03\\P03.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F839CF-B0A8-4A0D-8AF5-686AEB227003}|P03\\P03.csproj|solutionrelative:p03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCB5631-6FFE-4E18-94FA-75DD5CE5A26F}|P02\\P02.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCB5631-6FFE-4E18-94FA-75DD5CE5A26F}|P02\\P02.csproj|solutionrelative:p02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{976DB894-B449-47F1-8D0A-D80DEBCB63E2}|P01\\P01.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976DB894-B449-47F1-8D0A-D80DEBCB63E2}|P01\\P01.csproj|solutionrelative:p01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +68,167 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P13\\Program.cs",
+              "RelativeDocumentMoniker": "P13\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P13\\Program.cs",
+              "RelativeToolTip": "P13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:59:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P12\\Program.cs",
+              "RelativeDocumentMoniker": "P12\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P12\\Program.cs",
+              "RelativeToolTip": "P12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:58:46.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P11\\Program.cs",
+              "RelativeDocumentMoniker": "P11\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P11\\Program.cs",
+              "RelativeToolTip": "P11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:58:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P10\\Program.cs",
+              "RelativeDocumentMoniker": "P10\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P10\\Program.cs",
+              "RelativeToolTip": "P10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:57:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P09\\Program.cs",
+              "RelativeDocumentMoniker": "P09\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P09\\Program.cs",
+              "RelativeToolTip": "P09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:57:18.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P08\\Program.cs",
+              "RelativeDocumentMoniker": "P08\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P08\\Program.cs",
+              "RelativeToolTip": "P08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:56:40.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P07\\Program.cs",
+              "RelativeDocumentMoniker": "P07\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P07\\Program.cs",
+              "RelativeToolTip": "P07\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:56:03.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P06\\Program.cs",
+              "RelativeDocumentMoniker": "P06\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P06\\Program.cs",
+              "RelativeToolTip": "P06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:55:19.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P05\\Program.cs",
+              "RelativeDocumentMoniker": "P05\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P05\\Program.cs",
+              "RelativeToolTip": "P05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:54:36.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P04\\Program.cs",
+              "RelativeDocumentMoniker": "P04\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P04\\Program.cs",
+              "RelativeToolTip": "P04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:53:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P03\\Program.cs",
+              "RelativeDocumentMoniker": "P03\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P03\\Program.cs",
+              "RelativeToolTip": "P03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:53:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P02\\Program.cs",
+              "RelativeDocumentMoniker": "P02\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P02\\Program.cs",
+              "RelativeToolTip": "P02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:52:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P01\\Program.cs",
               "RelativeDocumentMoniker": "P01\\Program.cs",
               "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P01\\Program.cs",
               "RelativeToolTip": "P01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T10:47:43.738Z",
               "EditorCaption": ""

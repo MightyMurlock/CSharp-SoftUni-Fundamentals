@@ -1,0 +1,7 @@
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Intro\P01\bin\Debug\P01.exe.config
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Intro\P01\bin\Debug\P01.exe
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Intro\P01\bin\Debug\P01.pdb
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Intro\P01\obj\Debug\P01.csproj.AssemblyReference.cache
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Intro\P01\obj\Debug\P01.csproj.CoreCompileInputs.cache
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Intro\P01\obj\Debug\P01.exe
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Intro\P01\obj\Debug\P01.pdb
