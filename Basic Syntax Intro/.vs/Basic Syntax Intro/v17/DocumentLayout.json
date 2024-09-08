@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67858CE4-CAAC-4091-8AC8-41BEFDA57AF2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67858CE4-CAAC-4091-8AC8-41BEFDA57AF2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{976DB894-B449-47F1-8D0A-D80DEBCB63E2}|P01\\P01.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax intro\\p01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976DB894-B449-47F1-8D0A-D80DEBCB63E2}|P01\\P01.csproj|solutionrelative:p01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P01\\Program.cs",
+              "RelativeDocumentMoniker": "P01\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Intro\\P01\\Program.cs",
+              "RelativeToolTip": "P01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T10:44:47.015Z",
+              "WhenOpened": "2024-09-08T10:47:43.738Z",
               "EditorCaption": ""
             }
           ]
