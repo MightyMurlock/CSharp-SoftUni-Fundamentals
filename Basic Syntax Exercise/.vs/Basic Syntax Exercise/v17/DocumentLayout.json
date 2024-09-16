@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65593496-14FD-4DAA-ABE4-9B801551E2FC}|P11\\P11.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax exercise\\p11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65593496-14FD-4DAA-ABE4-9B801551E2FC}|P11\\P11.csproj|solutionrelative:p11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F0280C-2970-4CF7-9CCC-F8A23A1E6B9B}|P10\\P10.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax exercise\\p10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F0280C-2970-4CF7-9CCC-F8A23A1E6B9B}|P10\\P10.csproj|solutionrelative:p10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A724B213-C884-4F79-A2F7-CB7544107C47}|P09\\P09.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax exercise\\p09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A724B213-C884-4F79-A2F7-CB7544107C47}|P09\\P09.csproj|solutionrelative:p09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65C35D30-BCD9-447B-B558-C99C7CD298D4}|P07\\P07.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax exercise\\p07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65C35D30-BCD9-447B-B558-C99C7CD298D4}|P07\\P07.csproj|solutionrelative:p07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3AE6571-449A-4FD7-AF90-DD95FC463123}|P05\\P05.csproj|C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\p05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AE6571-449A-4FD7-AF90-DD95FC463123}|P05\\P05.csproj|solutionrelative:p05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38E0CFD7-BE55-4CBB-ABEA-FDC02DA888B8}|P08\\P08.csproj|c:\\github reps\\softuni-csharp-fundamentals\\basic syntax exercise\\p08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E0CFD7-BE55-4CBB-ABEA-FDC02DA888B8}|P08\\P08.csproj|solutionrelative:p08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94396C59-F217-480B-9195-653698AC5B26}|P06\\P06.csproj|C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\p06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94396C59-F217-480B-9195-653698AC5B26}|P06\\P06.csproj|solutionrelative:p06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AE6571-449A-4FD7-AF90-DD95FC463123}|P05\\P05.csproj|C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\p05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AE6571-449A-4FD7-AF90-DD95FC463123}|P05\\P05.csproj|solutionrelative:p05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{668BE4DF-6AE9-4C79-9EAA-CBAF51AD51FE}|P04\\P04.csproj|C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\p04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,18 +60,70 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P11\\Program.cs",
+              "RelativeDocumentMoniker": "P11\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P11\\Program.cs",
+              "RelativeToolTip": "P11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:20:29.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P10\\Program.cs",
+              "RelativeDocumentMoniker": "P10\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P10\\Program.cs",
+              "RelativeToolTip": "P10\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:19:48.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P09\\Program.cs",
+              "RelativeDocumentMoniker": "P09\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P09\\Program.cs",
+              "RelativeToolTip": "P09\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:14:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P08\\Program.cs",
+              "RelativeDocumentMoniker": "P08\\Program.cs",
+              "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P08\\Program.cs",
+              "RelativeToolTip": "P08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:10:00.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P07\\Program.cs",
               "RelativeDocumentMoniker": "P07\\Program.cs",
               "ToolTip": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P07\\Program.cs",
               "RelativeToolTip": "P07\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwFAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T16:29:31.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P06\\Program.cs",
               "RelativeDocumentMoniker": "P06\\Program.cs",
@@ -63,11 +131,12 @@
               "RelativeToolTip": "P06\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwDwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:51:08.956Z"
+              "WhenOpened": "2024-09-12T14:51:08.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P05\\Program.cs",
               "RelativeDocumentMoniker": "P05\\Program.cs",
@@ -79,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P04\\Program.cs",
               "RelativeDocumentMoniker": "P04\\Program.cs",
@@ -91,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P03\\Program.cs",
               "RelativeDocumentMoniker": "P03\\Program.cs",
@@ -103,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P02\\Program.cs",
               "RelativeDocumentMoniker": "P02\\Program.cs",
@@ -115,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub REPs\\SoftUni-CSharp-Fundamentals\\Basic Syntax Exercise\\P01\\Program.cs",
               "RelativeDocumentMoniker": "P01\\Program.cs",

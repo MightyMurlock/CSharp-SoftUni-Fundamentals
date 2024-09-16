@@ -1,0 +1,7 @@
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Exercise\P08\bin\Debug\P08.exe.config
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Exercise\P08\bin\Debug\P08.exe
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Exercise\P08\bin\Debug\P08.pdb
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Exercise\P08\obj\Debug\P08.csproj.AssemblyReference.cache
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Exercise\P08\obj\Debug\P08.csproj.CoreCompileInputs.cache
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Exercise\P08\obj\Debug\P08.exe
+C:\GitHub REPs\SoftUni-CSharp-Fundamentals\Basic Syntax Exercise\P08\obj\Debug\P08.pdb
